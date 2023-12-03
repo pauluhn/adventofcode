@@ -55,6 +55,9 @@ extension Substring {
 }
 
 extension Character {
+    var int: Int {
+        str.int
+    }
     var str: String {
         String(self)
     }
