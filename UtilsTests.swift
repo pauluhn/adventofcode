@@ -21,4 +21,9 @@ final class UtilsTests: XCTestCase {
         assert("eight".int == 8)
         assert("nine".int == 9)
     }
+
+    func testCharacterToUnicode() {
+        assert("a".unicode == 97)
+        assert("A".unicode == 65)
+    }
 }

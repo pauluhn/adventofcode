@@ -12,3 +12,9 @@ extension Int {
         String(self)
     }
 }
+
+extension UInt32 {
+    var int: Int {
+        Int(self)
+    }
+}

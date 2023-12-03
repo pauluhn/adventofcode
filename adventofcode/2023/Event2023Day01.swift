@@ -1,9 +1,4 @@
 //
-//  Event2023Day01.swift
-//  adventofcode
-//
-//  Created by Paul U on 12/1/23.
-//
 
 import Foundation
 

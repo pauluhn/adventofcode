@@ -39,6 +39,10 @@ extension String {
     var reversed: String {
         String(reversed())
     }
+    var unicode: Int {
+        assert(count == 1)
+        return unicodeScalars.first!.value.int
+    }
 }
 
 extension Substring {
@@ -53,5 +57,8 @@ extension Substring {
 extension Character {
     var str: String {
         String(self)
+    }
+    var unicode: Int {
+        str.unicode
     }
 }
