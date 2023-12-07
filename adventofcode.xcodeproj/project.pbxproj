@@ -26,6 +26,8 @@
 		9B71D5422B1E35B5002EB6B1 /* Numerics in Frameworks */ = {isa = PBXBuildFile; productRef = 9B71D5412B1E35B5002EB6B1 /* Numerics */; };
 		9B71D54C2B1F97B0002EB6B1 /* Event2023Day05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B71D54B2B1F97B0002EB6B1 /* Event2023Day05.swift */; };
 		9B71D54E2B1F97FB002EB6B1 /* Event2023Day05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B71D54D2B1F97FB002EB6B1 /* Event2023Day05.swift */; };
+		9B71D55B2B215B69002EB6B1 /* Event2023Day06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B71D55A2B215B69002EB6B1 /* Event2023Day06.swift */; };
+		9B71D55D2B215BBC002EB6B1 /* Event2023Day06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B71D55C2B215BBC002EB6B1 /* Event2023Day06.swift */; };
 		9BA25D342B1A2C470008FFD3 /* adventofcodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */; };
 		9BA25D362B1A2C470008FFD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D352B1A2C470008FFD3 /* ContentView.swift */; };
 		9BA25D382B1A2C490008FFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BA25D372B1A2C490008FFD3 /* Assets.xcassets */; };
@@ -60,6 +62,8 @@
 		9B71D53E2B1E31D8002EB6B1 /* Event2023Day04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day04.swift; sourceTree = "<group>"; };
 		9B71D54B2B1F97B0002EB6B1 /* Event2023Day05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day05.swift; sourceTree = "<group>"; };
 		9B71D54D2B1F97FB002EB6B1 /* Event2023Day05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day05.swift; sourceTree = "<group>"; };
+		9B71D55A2B215B69002EB6B1 /* Event2023Day06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day06.swift; sourceTree = "<group>"; };
+		9B71D55C2B215BBC002EB6B1 /* Event2023Day06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day06.swift; sourceTree = "<group>"; };
 		9BA25D302B1A2C470008FFD3 /* adventofcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adventofcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventofcodeApp.swift; sourceTree = "<group>"; };
 		9BA25D352B1A2C470008FFD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +100,7 @@
 				9B71D5322B1C43AA002EB6B1 /* Event2023Day03.swift */,
 				9B71D53C2B1E319C002EB6B1 /* Event2023Day04.swift */,
 				9B71D54B2B1F97B0002EB6B1 /* Event2023Day05.swift */,
+				9B71D55A2B215B69002EB6B1 /* Event2023Day06.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -109,6 +114,7 @@
 				9B71D5342B1C43F3002EB6B1 /* Event2023Day03.swift */,
 				9B71D53E2B1E31D8002EB6B1 /* Event2023Day04.swift */,
 				9B71D54D2B1F97FB002EB6B1 /* Event2023Day05.swift */,
+				9B71D55C2B215BBC002EB6B1 /* Event2023Day06.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -303,6 +309,7 @@
 				9BA25D362B1A2C470008FFD3 /* ContentView.swift in Sources */,
 				9B71D51B2B1C04BD002EB6B1 /* Event2023Day02.swift in Sources */,
 				9B71D53B2B1C47B6002EB6B1 /* Direction.swift in Sources */,
+				9B71D55B2B215B69002EB6B1 /* Event2023Day06.swift in Sources */,
 				9BA25D342B1A2C470008FFD3 /* adventofcodeApp.swift in Sources */,
 				9B71D54C2B1F97B0002EB6B1 /* Event2023Day05.swift in Sources */,
 				9B71D53D2B1E319C002EB6B1 /* Event2023Day04.swift in Sources */,
@@ -322,6 +329,7 @@
 				9B71D5352B1C43F3002EB6B1 /* Event2023Day03.swift in Sources */,
 				9B71D53F2B1E31D8002EB6B1 /* Event2023Day04.swift in Sources */,
 				9B71D5032B1A4111002EB6B1 /* UtilsTests.swift in Sources */,
+				9B71D55D2B215BBC002EB6B1 /* Event2023Day06.swift in Sources */,
 				9B71D54E2B1F97FB002EB6B1 /* Event2023Day05.swift in Sources */,
 				9B71D51D2B1C0510002EB6B1 /* Event2023Day02.swift in Sources */,
 			);
