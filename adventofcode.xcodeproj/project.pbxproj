@@ -34,6 +34,8 @@
 		9B751CB42B23A30000C22AE3 /* Event2023Day08.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CB32B23A30000C22AE3 /* Event2023Day08.swift */; };
 		9B751CB72B23B14800C22AE3 /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = 9B751CB62B23B14800C22AE3 /* Algorithms */; };
 		9B751CB92B2434BE00C22AE3 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CB82B2434BE00C22AE3 /* Functions.swift */; };
+		9B751CBB2B24C69D00C22AE3 /* Event2023Day09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CBA2B24C69D00C22AE3 /* Event2023Day09.swift */; };
+		9B751CBD2B24C6E700C22AE3 /* Event2023Day09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */; };
 		9BA25D342B1A2C470008FFD3 /* adventofcodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */; };
 		9BA25D362B1A2C470008FFD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D352B1A2C470008FFD3 /* ContentView.swift */; };
 		9BA25D382B1A2C490008FFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BA25D372B1A2C490008FFD3 /* Assets.xcassets */; };
@@ -75,6 +77,8 @@
 		9B751CB12B23A2C100C22AE3 /* Event2023Day08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day08.swift; sourceTree = "<group>"; };
 		9B751CB32B23A30000C22AE3 /* Event2023Day08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day08.swift; sourceTree = "<group>"; };
 		9B751CB82B2434BE00C22AE3 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		9B751CBA2B24C69D00C22AE3 /* Event2023Day09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day09.swift; sourceTree = "<group>"; };
+		9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day09.swift; sourceTree = "<group>"; };
 		9BA25D302B1A2C470008FFD3 /* adventofcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adventofcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventofcodeApp.swift; sourceTree = "<group>"; };
 		9BA25D352B1A2C470008FFD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -115,6 +119,7 @@
 				9B71D55A2B215B69002EB6B1 /* Event2023Day06.swift */,
 				9B751CAD2B22ADED00C22AE3 /* Event2023Day07.swift */,
 				9B751CB12B23A2C100C22AE3 /* Event2023Day08.swift */,
+				9B751CBA2B24C69D00C22AE3 /* Event2023Day09.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -131,6 +136,7 @@
 				9B71D55C2B215BBC002EB6B1 /* Event2023Day06.swift */,
 				9B751CAF2B22AE3900C22AE3 /* Event2023Day07.swift */,
 				9B751CB32B23A30000C22AE3 /* Event2023Day08.swift */,
+				9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -334,6 +340,7 @@
 				9B751CB92B2434BE00C22AE3 /* Functions.swift in Sources */,
 				9B71D54C2B1F97B0002EB6B1 /* Event2023Day05.swift in Sources */,
 				9B71D53D2B1E319C002EB6B1 /* Event2023Day04.swift in Sources */,
+				9B751CBB2B24C69D00C22AE3 /* Event2023Day09.swift in Sources */,
 				9B71D5372B1C44DE002EB6B1 /* Grid.swift in Sources */,
 				9B71D4FF2B1A3655002EB6B1 /* String+Ext.swift in Sources */,
 				9B71D4F32B1A301B002EB6B1 /* Event2023Day01.swift in Sources */,
@@ -351,6 +358,7 @@
 				9B71D5352B1C43F3002EB6B1 /* Event2023Day03.swift in Sources */,
 				9B71D53F2B1E31D8002EB6B1 /* Event2023Day04.swift in Sources */,
 				9B71D5032B1A4111002EB6B1 /* UtilsTests.swift in Sources */,
+				9B751CBD2B24C6E700C22AE3 /* Event2023Day09.swift in Sources */,
 				9B751CB42B23A30000C22AE3 /* Event2023Day08.swift in Sources */,
 				9B751CB02B22AE3900C22AE3 /* Event2023Day07.swift in Sources */,
 				9B71D55D2B215BBC002EB6B1 /* Event2023Day06.swift in Sources */,
