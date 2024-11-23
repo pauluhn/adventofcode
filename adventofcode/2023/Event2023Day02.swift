@@ -1,5 +1,3 @@
-//
-
 import Foundation
 
 struct Event2023Day02 {

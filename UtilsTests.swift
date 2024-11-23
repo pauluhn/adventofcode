@@ -1,10 +1,3 @@
-//
-//  UtilsTests.swift
-//  adventofcodeTests
-//
-//  Created by Paul U on 12/1/23.
-//
-
 @testable import adventofcode
 import XCTest
 

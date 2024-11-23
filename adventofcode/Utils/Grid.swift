@@ -1,5 +1,3 @@
-//
-
 import Foundation
 
 struct Grid<T: Equatable> {
@@ -50,6 +48,19 @@ struct Grid<T: Equatable> {
 
     func node(for point: Point) -> Node? {
         nodes.first(where: { $0.point == point })
+    }
+
+    @discardableResult
+    mutating func removeNode(at point: Point) -> Node? {
+        guard let index = nodes.firstIndex(where: { $0.point == point }) else { return nil }
+        let node = nodes.remove(at: index)
+
+        minX = nodes.map { $0.point.x }.min()!
+        maxX = nodes.map { $0.point.x }.max()!
+        minY = nodes.map { $0.point.y }.min()!
+        maxY = nodes.map { $0.point.y }.max()!
+        
+        return node
     }
 
     mutating func set(_ node: Node, to point: Point) {

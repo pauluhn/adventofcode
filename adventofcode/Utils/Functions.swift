@@ -1,5 +1,3 @@
-//
-
 import Foundation
 
 /// greatest common divisor
