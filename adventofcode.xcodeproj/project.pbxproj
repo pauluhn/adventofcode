@@ -41,6 +41,8 @@
 		9B7D29F32B2CAB7700109D96 /* Event2023Day11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7D29F22B2CAB7700109D96 /* Event2023Day11.swift */; };
 		9B7D29F52B2CABC200109D96 /* Event2023Day11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7D29F42B2CABC200109D96 /* Event2023Day11.swift */; };
 		9B7D29FF2B2CC24000109D96 /* SwiftAlgorithmClub in Frameworks */ = {isa = PBXBuildFile; productRef = 9B7D29FE2B2CC24000109D96 /* SwiftAlgorithmClub */; };
+		9B7D2A012B2CCAF800109D96 /* Event2023Day12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7D2A002B2CCAF800109D96 /* Event2023Day12.swift */; };
+		9B7D2A032B2CCB0600109D96 /* Event2023Day12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7D2A022B2CCB0600109D96 /* Event2023Day12.swift */; };
 		9BA25D342B1A2C470008FFD3 /* adventofcodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */; };
 		9BA25D362B1A2C470008FFD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D352B1A2C470008FFD3 /* ContentView.swift */; };
 		9BA25D382B1A2C490008FFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BA25D372B1A2C490008FFD3 /* Assets.xcassets */; };
@@ -88,6 +90,8 @@
 		9B751CCC2B257D7900C22AE3 /* Event2023Day10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day10.swift; sourceTree = "<group>"; };
 		9B7D29F22B2CAB7700109D96 /* Event2023Day11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day11.swift; sourceTree = "<group>"; };
 		9B7D29F42B2CABC200109D96 /* Event2023Day11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day11.swift; sourceTree = "<group>"; };
+		9B7D2A002B2CCAF800109D96 /* Event2023Day12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day12.swift; sourceTree = "<group>"; };
+		9B7D2A022B2CCB0600109D96 /* Event2023Day12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day12.swift; sourceTree = "<group>"; };
 		9BA25D302B1A2C470008FFD3 /* adventofcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adventofcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventofcodeApp.swift; sourceTree = "<group>"; };
 		9BA25D352B1A2C470008FFD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -132,6 +136,7 @@
 				9B751CBA2B24C69D00C22AE3 /* Event2023Day09.swift */,
 				9B751CCA2B257D4500C22AE3 /* Event2023Day10.swift */,
 				9B7D29F22B2CAB7700109D96 /* Event2023Day11.swift */,
+				9B7D2A002B2CCAF800109D96 /* Event2023Day12.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -151,6 +156,7 @@
 				9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */,
 				9B751CCC2B257D7900C22AE3 /* Event2023Day10.swift */,
 				9B7D29F42B2CABC200109D96 /* Event2023Day11.swift */,
+				9B7D2A022B2CCB0600109D96 /* Event2023Day12.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -349,6 +355,7 @@
 				9B71D5012B1A403C002EB6B1 /* Int+Ext.swift in Sources */,
 				9BA25D362B1A2C470008FFD3 /* ContentView.swift in Sources */,
 				9B71D51B2B1C04BD002EB6B1 /* Event2023Day02.swift in Sources */,
+				9B7D2A012B2CCAF800109D96 /* Event2023Day12.swift in Sources */,
 				9B71D53B2B1C47B6002EB6B1 /* Direction.swift in Sources */,
 				9B751CB22B23A2C100C22AE3 /* Event2023Day08.swift in Sources */,
 				9B71D55B2B215B69002EB6B1 /* Event2023Day06.swift in Sources */,
@@ -380,6 +387,7 @@
 				9B71D5032B1A4111002EB6B1 /* UtilsTests.swift in Sources */,
 				9B751CBD2B24C6E700C22AE3 /* Event2023Day09.swift in Sources */,
 				9B751CB42B23A30000C22AE3 /* Event2023Day08.swift in Sources */,
+				9B7D2A032B2CCB0600109D96 /* Event2023Day12.swift in Sources */,
 				9B751CB02B22AE3900C22AE3 /* Event2023Day07.swift in Sources */,
 				9B71D55D2B215BBC002EB6B1 /* Event2023Day06.swift in Sources */,
 				9B71D54E2B1F97FB002EB6B1 /* Event2023Day05.swift in Sources */,
