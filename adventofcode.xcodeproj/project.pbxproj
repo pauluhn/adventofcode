@@ -36,6 +36,8 @@
 		9B751CB92B2434BE00C22AE3 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CB82B2434BE00C22AE3 /* Functions.swift */; };
 		9B751CBB2B24C69D00C22AE3 /* Event2023Day09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CBA2B24C69D00C22AE3 /* Event2023Day09.swift */; };
 		9B751CBD2B24C6E700C22AE3 /* Event2023Day09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */; };
+		9B751CCB2B257D4500C22AE3 /* Event2023Day10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CCA2B257D4500C22AE3 /* Event2023Day10.swift */; };
+		9B751CCD2B257D7900C22AE3 /* Event2023Day10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CCC2B257D7900C22AE3 /* Event2023Day10.swift */; };
 		9BA25D342B1A2C470008FFD3 /* adventofcodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */; };
 		9BA25D362B1A2C470008FFD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA25D352B1A2C470008FFD3 /* ContentView.swift */; };
 		9BA25D382B1A2C490008FFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BA25D372B1A2C490008FFD3 /* Assets.xcassets */; };
@@ -79,6 +81,8 @@
 		9B751CB82B2434BE00C22AE3 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 		9B751CBA2B24C69D00C22AE3 /* Event2023Day09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day09.swift; sourceTree = "<group>"; };
 		9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day09.swift; sourceTree = "<group>"; };
+		9B751CCA2B257D4500C22AE3 /* Event2023Day10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day10.swift; sourceTree = "<group>"; };
+		9B751CCC2B257D7900C22AE3 /* Event2023Day10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day10.swift; sourceTree = "<group>"; };
 		9BA25D302B1A2C470008FFD3 /* adventofcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adventofcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA25D332B1A2C470008FFD3 /* adventofcodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventofcodeApp.swift; sourceTree = "<group>"; };
 		9BA25D352B1A2C470008FFD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -120,6 +124,7 @@
 				9B751CAD2B22ADED00C22AE3 /* Event2023Day07.swift */,
 				9B751CB12B23A2C100C22AE3 /* Event2023Day08.swift */,
 				9B751CBA2B24C69D00C22AE3 /* Event2023Day09.swift */,
+				9B751CCA2B257D4500C22AE3 /* Event2023Day10.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -137,6 +142,7 @@
 				9B751CAF2B22AE3900C22AE3 /* Event2023Day07.swift */,
 				9B751CB32B23A30000C22AE3 /* Event2023Day08.swift */,
 				9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */,
+				9B751CCC2B257D7900C22AE3 /* Event2023Day10.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -346,6 +352,7 @@
 				9B71D4F32B1A301B002EB6B1 /* Event2023Day01.swift in Sources */,
 				9B751CAE2B22ADED00C22AE3 /* Event2023Day07.swift in Sources */,
 				9B71D5332B1C43AA002EB6B1 /* Event2023Day03.swift in Sources */,
+				9B751CCB2B257D4500C22AE3 /* Event2023Day10.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -355,6 +362,7 @@
 			files = (
 				9B71D4F52B1A31C3002EB6B1 /* Event2023Tests.swift in Sources */,
 				9B71D4FA2B1A337D002EB6B1 /* Event2023Day01.swift in Sources */,
+				9B751CCD2B257D7900C22AE3 /* Event2023Day10.swift in Sources */,
 				9B71D5352B1C43F3002EB6B1 /* Event2023Day03.swift in Sources */,
 				9B71D53F2B1E31D8002EB6B1 /* Event2023Day04.swift in Sources */,
 				9B71D5032B1A4111002EB6B1 /* UtilsTests.swift in Sources */,
