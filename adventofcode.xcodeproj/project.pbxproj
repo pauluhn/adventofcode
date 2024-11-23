@@ -40,6 +40,8 @@
 		9B751CBD2B24C6E700C22AE3 /* Event2023Day09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */; };
 		9B751CCB2B257D4500C22AE3 /* Event2023Day10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CCA2B257D4500C22AE3 /* Event2023Day10.swift */; };
 		9B751CCD2B257D7900C22AE3 /* Event2023Day10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B751CCC2B257D7900C22AE3 /* Event2023Day10.swift */; };
+		9B7A25CC2B4B1B4F00A0247F /* Event2023Day14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7A25CB2B4B1B4F00A0247F /* Event2023Day14.swift */; };
+		9B7A25CE2B4B1B8F00A0247F /* Event2023Day14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7A25CD2B4B1B8F00A0247F /* Event2023Day14.swift */; };
 		9B7D29F32B2CAB7700109D96 /* Event2023Day11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7D29F22B2CAB7700109D96 /* Event2023Day11.swift */; };
 		9B7D29F52B2CABC200109D96 /* Event2023Day11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7D29F42B2CABC200109D96 /* Event2023Day11.swift */; };
 		9B7D29FF2B2CC24000109D96 /* SwiftAlgorithmClub in Frameworks */ = {isa = PBXBuildFile; productRef = 9B7D29FE2B2CC24000109D96 /* SwiftAlgorithmClub */; };
@@ -92,6 +94,8 @@
 		9B751CBC2B24C6E700C22AE3 /* Event2023Day09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day09.swift; sourceTree = "<group>"; };
 		9B751CCA2B257D4500C22AE3 /* Event2023Day10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day10.swift; sourceTree = "<group>"; };
 		9B751CCC2B257D7900C22AE3 /* Event2023Day10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day10.swift; sourceTree = "<group>"; };
+		9B7A25CB2B4B1B4F00A0247F /* Event2023Day14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day14.swift; sourceTree = "<group>"; };
+		9B7A25CD2B4B1B8F00A0247F /* Event2023Day14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day14.swift; sourceTree = "<group>"; };
 		9B7D29F22B2CAB7700109D96 /* Event2023Day11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day11.swift; sourceTree = "<group>"; };
 		9B7D29F42B2CABC200109D96 /* Event2023Day11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day11.swift; sourceTree = "<group>"; };
 		9B7D2A002B2CCAF800109D96 /* Event2023Day12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event2023Day12.swift; sourceTree = "<group>"; };
@@ -142,6 +146,7 @@
 				9B7D29F22B2CAB7700109D96 /* Event2023Day11.swift */,
 				9B7D2A002B2CCAF800109D96 /* Event2023Day12.swift */,
 				9B598B5C2B427AB600C1AC6B /* Event2023Day13.swift */,
+				9B7A25CB2B4B1B4F00A0247F /* Event2023Day14.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -163,6 +168,7 @@
 				9B7D29F42B2CABC200109D96 /* Event2023Day11.swift */,
 				9B7D2A022B2CCB0600109D96 /* Event2023Day12.swift */,
 				9B598B5E2B427AC900C1AC6B /* Event2023Day13.swift */,
+				9B7A25CD2B4B1B8F00A0247F /* Event2023Day14.swift */,
 			);
 			path = 2023;
 			sourceTree = "<group>";
@@ -374,6 +380,7 @@
 				9B71D5372B1C44DE002EB6B1 /* Grid.swift in Sources */,
 				9B71D4FF2B1A3655002EB6B1 /* String+Ext.swift in Sources */,
 				9B71D4F32B1A301B002EB6B1 /* Event2023Day01.swift in Sources */,
+				9B7A25CC2B4B1B4F00A0247F /* Event2023Day14.swift in Sources */,
 				9B598B5D2B427AB600C1AC6B /* Event2023Day13.swift in Sources */,
 				9B751CAE2B22ADED00C22AE3 /* Event2023Day07.swift in Sources */,
 				9B71D5332B1C43AA002EB6B1 /* Event2023Day03.swift in Sources */,
@@ -393,6 +400,7 @@
 				9B71D5352B1C43F3002EB6B1 /* Event2023Day03.swift in Sources */,
 				9B71D53F2B1E31D8002EB6B1 /* Event2023Day04.swift in Sources */,
 				9B71D5032B1A4111002EB6B1 /* UtilsTests.swift in Sources */,
+				9B7A25CE2B4B1B8F00A0247F /* Event2023Day14.swift in Sources */,
 				9B751CBD2B24C6E700C22AE3 /* Event2023Day09.swift in Sources */,
 				9B751CB42B23A30000C22AE3 /* Event2023Day08.swift in Sources */,
 				9B7D2A032B2CCB0600109D96 /* Event2023Day12.swift in Sources */,
