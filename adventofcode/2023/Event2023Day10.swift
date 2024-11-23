@@ -52,8 +52,7 @@ struct Event2023Day10 {
     }
 
     private static func gridPath(_ input: String) -> (Grid<Character>, [Point], Character) {
-        let input = input.multi.map { $0.map { $0 }}
-        var grid = Grid(input, empty: ".")
+        var grid = Grid(input.gridInput, empty: ".")
         let start = grid.nodes.first { $0.value == "S" }!
         var (next, facing) = Direction.cardinal
             .map { (start.point.offset($0), $0) }

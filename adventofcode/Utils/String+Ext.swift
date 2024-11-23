@@ -13,6 +13,9 @@ extension String {
         }
         fatalError()
     }
+    var gridInput: [[Character]] {
+        multi.map { $0.map { $0 }}
+    }
     func lastMatch(of r: some RegexComponent<(Substring, Substring)>) -> Substring? {
         var pointer = endIndex
         while true {

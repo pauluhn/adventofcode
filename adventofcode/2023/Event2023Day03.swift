@@ -39,8 +39,7 @@ struct Event2023Day03 {
     }
 
     private static func parse(_ input: String) -> (Grid<Character>, [Part]) {
-        let input = input.multi.map { $0.map { $0 }}
-        let grid = Grid(input, empty: ".")
+        let grid = Grid(input.gridInput, empty: ".")
 
         var part = Part(number: 0, points: [])
         var parts = [Part]()

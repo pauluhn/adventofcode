@@ -10,8 +10,7 @@ struct Event2023Day11 {
     }
 
     private static func compute(_ input: String, multiply: Int) -> Int {
-        let input = input.multi.map { $0.map { $0 }}
-        var grid = Grid(input, empty: ".")
+        var grid = Grid(input.gridInput, empty: ".")
 
         let c = multiply - 1
         // vertical
