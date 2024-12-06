@@ -48,6 +48,9 @@ extension Substring {
     var str: String {
         String(self)
     }
+    var multi: [String] {
+        String(self).multi
+    }
 }
 
 extension Character {
